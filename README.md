@@ -8,7 +8,7 @@
 UAS Pemrograman Web Semester Membuat Aplikasi Pengelolaan Iuran Kas RT
 
 # Link
-## [Video Dokumentasi](https://www.malagaislandmaine.org/)
+## [Video Dokumentasi](https://www.malagaislandmain.org/)
 
 
-## [Demo Program](https://www.malagaislandmaine.org/)
+## [Demo Program](https://www.malagaislandmain.org/)
